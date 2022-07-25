@@ -1,0 +1,5 @@
+0: 'Missing joints', màu xanh dương - không sizing
+1: 'Lying down';Straight', màu xanh lá - có sizing
+2: 'Side lying;Less curved', màu đỏ - có sizing
+3: 'Side lying;More curved', màu trắng - không sizing
+((xanh dương+ trắng)/ tổng) x 100
